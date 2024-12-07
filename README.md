@@ -1,6 +1,6 @@
 # Antibiotic-Usage-Analysis
 
-**Overview**:
+# Overview:
 
 This project provides an interactive dashboard to analyze antibiotic prescribing patterns within a healthcare environment. It focuses on key metrics like total prescriptions, antibiotic distribution by time period, average treatment durations, and trends in antibiotic resistance. All data is anonymized to ensure no protected health information is disclosed.
 
